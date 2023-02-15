@@ -4,13 +4,13 @@
 - 👀 I look for some opportunity to learn the maximum as possible while applying in practice the knowledge acquired.
 
     Profile:
-        I'm a dedicated professional and I never give up of searching for answers and methods for new challenges;
-        Extremely organized and goal oriented;
-        Through my professional life, i’ve learned that before a difficult problem, we must see a improvement opportunity.
+        - I'm a dedicated professional and I never give up of searching for answers and methods for new challenges;
+        - Extremely organized and goal oriented;
+        - Through my professional life, i’ve learned that before a difficult problem, we must see a improvement opportunity.
 
     About Me:
-        I have performed for the last 8 years in defense and public safety area with the post of 1º Lieutenant in the Brazilian Army. 
-        However, i felt a lot of passion for the technology sector for its growing evolution and great possibilities, then I decided to make a career migration.
+        - I have performed for the last 8 years in defense and public safety area with the post of 1º Lieutenant in the Brazilian Army. 
+        - However, i felt a lot of passion for the technology sector for its growing evolution and great possibilities, then I decided to make a career migration.
 
 - 💞️ I want to collaborate on a lot of projects, as much as possible.
 
