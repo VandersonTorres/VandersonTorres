@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VandersonTorres
-- ⚙️ Currently, I’m engaged in personal projects that envolve Web Development, Python Applications and Data Science.
+- ⚙️ Currently, I’m engaged in personal projects that involve Web Development, Python Applications and Data Science.
 - 👨🏽‍🎓 Attending college in the Graduation of Systems Analysis and Development.
 - 👀 I look for some opportunity to learn the maximum as possible while applying in practice the knowledge acquired.
 
