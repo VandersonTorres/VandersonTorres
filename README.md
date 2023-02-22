@@ -1,5 +1,5 @@
 - 👋 Olá, Eu sou @VandersonTorres
-- ⚙️ Atualmente estou enganado em projetos pessoais que envolvem Desenvolvimento Web, Aplicações em Python e Ciência de Dados.
+- ⚙️ Atualmente estou engajado em projetos pessoais que envolvem Desenvolvimento Web, Aplicações em Python e Ciência de Dados.
 - 👨🏽‍🎓 Cursando Graduação em Análise e Desenvolvimento de Sistemas, e graduado em Tecnologia em Segurança Pública.
 - 👀 Procuro por oportunidades de aprender o máximo e aplicar, na prática, os conhecimentos adquiridos.
 
