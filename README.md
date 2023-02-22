@@ -1,20 +1,20 @@
-- 👋 Hi, I’m @VandersonTorres
-- ⚙️ Currently, I’m engaged in personal projects that involve Web Development, Python Applications and Data Science.
-- 👨🏽‍🎓 Attending college in the Graduation of Systems Analysis and Development.
-- 👀 I look for some opportunity to learn the maximum as possible while applying in practice the knowledge acquired.
+- 👋 Olá, Eu sou @VandersonTorres
+- ⚙️ Atualmente estou enganado em projetos pessoais que envolvem Desenvolvimento Web, Aplicações em Python e Ciência de Dados.
+- 👨🏽‍🎓 Cursando Graduação em Análise e Desenvolvimento de Sistemas, e graduado em Tecnologia em Segurança Pública.
+- 👀 Procuro por oportunidades de aprender o máximo e aplicar, na prática, os conhecimentos adquiridos.
 
-    Profile:</br>
-        - I'm a dedicated professional and I never give up of searching for answers and methods for new challenges;</br>
-        - Extremely organized and goal oriented;</br>
-        - Through my professional life, i’ve learned that before a difficult problem, we must see a improvement opportunity.</br>
+    Perfil:</br>
+        - Sou um profissional dedicado e nunca desisto de procurar por respostas e métodos para novos desafios;</br>
+        - Extremamente organizado e orientado a metas;</br>
+        - Durante minha vida profissional, aprendi que diante de um problema difícil, devemos enxergar uma oportunidade de melhoria.</br>
 
-    About Me:</br>
-        - I have performed for the last 8 years in defense and public safety area with the post of 1º Lieutenant in the Brazilian Army. </br>
-        - However, i felt a lot of passion for the technology sector for its growing evolution and great possibilities, then I decided to make a career migration.</br>
+    Sobre mim:</br>
+        - Atuei pelos últimos 8 anos na área de Defesa e Segurança Pública no Posto de 1º Tenente do Exército Brasileiro. </br>
+        - No entanto, senti muita paixão pelo setor de tecnologia pela sua crescente evolução e grandes possibilidades, então decidi fazer uma migração de carreira.</br>
 
-- 🤝 I want to collaborate on a lot of projects, as much as possible.
+- 🤝 Quero colaborar em muitos projetos, o máximo possível.
 
-- 📫 How to reach me: </br>
+- 📫 Como me encontrar: </br>
 
 📲 +55(31)99135-9922; </br>
 📧 vanderson.torres1@hotmail.com; </br>
