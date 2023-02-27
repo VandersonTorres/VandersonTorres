@@ -20,7 +20,7 @@
 📧 vanderson.torres1@hotmail.com; </br>
 LinkedIn: www.linkedin.com/in/vanderson-torres-de-fátima; </br>
 Curriculum Vitae (Português): https://drive.google.com/file/d/1VUTouYsWETtgidkgVx0gWBPc1HLgwM7L/view?usp=sharing; </br>
-Curriculum Vitae (English): https://drive.google.com/file/d/1_xl4RcH-VNy00RQDfTJYGzXHXWfrJUn6/view?usp=sharing; </br>
+Curriculum Vitae (English): https://drive.google.com/file/d/1tN18cgfF9Ol_FJch8mSuOSst8eMLl2MD/view?usp=sharing; </br>
 
 
 
