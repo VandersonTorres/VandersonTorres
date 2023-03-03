@@ -19,8 +19,8 @@
 📲 +55(31)99135-9922; </br>
 📧 vanderson.torres1@hotmail.com; </br>
 LinkedIn: www.linkedin.com/in/vanderson-torres-de-fátima; </br>
-Curriculum Vitae (Português): https://drive.google.com/file/d/1VUTouYsWETtgidkgVx0gWBPc1HLgwM7L/view?usp=sharing; </br>
-Curriculum Vitae (English): https://drive.google.com/file/d/1tN18cgfF9Ol_FJch8mSuOSst8eMLl2MD/view?usp=sharing; </br>
+Curriculum Vitae (Português): https://drive.google.com/file/d/12X1xjm1uffQD1VEN4hTOydVPrNpp-dER/view?usp=sharing; </br>
+Curriculum Vitae (English): https://drive.google.com/file/d/1LtAUPSo4NAeJc-4QHSxKoeYTnfOT9nrU/view?usp=sharing; </br>
 
 
 
