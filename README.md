@@ -48,7 +48,7 @@
     <a a rel="noopener" data-link="mailto:vanderson.torres1@hotmail.com" href="mailto:vanderson.torres1@hotmail.com" target="_top"><img align="center" src="https://bit.ly/3EYccvH" alt="1" height="50" width="50" style="max-width: 100%;"> </a> &nbsp &nbsp &nbsp
     <a href="https://www.linkedin.com/in/vanderson-torres-de-fátima" rel="nofollow"><img align="center" src="https://bit.ly/3yepBf4" alt="1" height="40" width="40" style="max-width: 100%;"></a> &nbsp &nbsp &nbsp
     <a href="https://www.instagram.com/vanderson._torres/" rel="nofollow"><img align="center" src="https://bit.ly/3IPIQ3B" alt="1" height="40" width="40" style="max-width: 100%;"></a> &nbsp &nbsp &nbsp
-    <a href="https://api.whatsapp.com/send?phone=5531991359922" rel="nofollow"><img align="center" src="https://o.remove.bg/downloads/082ee3fd-1b17-4aa3-8d0a-264326da5082/logotipo-do-icone-do-telefone-com-estilo-3d-moderno_446595-10673-removebg-preview.png" alt="1" height="40" width="40" style="max-width: 100%;"></a><br/>
+    <a href="https://api.whatsapp.com/send?phone=5531991359922" rel="nofollow"><img align="center" src="https://image.similarpng.com/very-thumbnail/2020/05/WhatsApp-icon-PNG.png" alt="Whatsapp" height="40" width="40" style="max-width: 100%;"></a><br/>
   </p>
   <h4> 📲 +55 (31) 9 9135-9922 </h4>
 </div><br/>
@@ -56,11 +56,11 @@
 <div>
   <h3> Curriculum Vitae </h3>
   <p>
-    (Português): <a href="https://bit.ly/3mq0fIF" rel="nofollow"><img align="center" src="https://o.remove.bg/downloads/e0b6660f-c54e-4e4e-8bf5-0568fe09bd3b/renderizacao-3d-do-icone-do-google-drive_68185-1070-removebg-preview.png" alt="1" height="60" width="80" style="max-width: 100%;"></a>
+    (Português): <a href="https://bit.ly/3mq0fIF" rel="nofollow"><img align="center" src="https://o.remove.bg/downloads/e0b6660f-c54e-4e4e-8bf5-0568fe09bd3b/renderizacao-3d-do-icone-do-google-drive_68185-1070-removebg-preview.png" alt="CV/ pt-BR" height="60" width="80" style="max-width: 100%;"></a>
   </p>
   <h3> Curriculum Vitae </h3>
   <p>
-    (English): <a href="https://bit.ly/3ZymvOY" rel="nofollow"><img align="center" src="https://o.remove.bg/downloads/e0b6660f-c54e-4e4e-8bf5-0568fe09bd3b/renderizacao-3d-do-icone-do-google-drive_68185-1070-removebg-preview.png" alt="1" height="60" width="80" style="max-width: 100%;"></a></br>
+    (English): <a href="https://bit.ly/3ZymvOY" rel="nofollow"><img align="center" src="https://o.remove.bg/downloads/e0b6660f-c54e-4e4e-8bf5-0568fe09bd3b/renderizacao-3d-do-icone-do-google-drive_68185-1070-removebg-preview.png" alt="CV/ en" height="60" width="80" style="max-width: 100%;"></a></br>
   </p>
 </div>
 
