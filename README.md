@@ -38,7 +38,8 @@
   <p>
     &nbsp&nbsp&nbsp - Atuei pelos últimos 8 anos na área de Defesa e Segurança Pública no Posto de 1º Tenente do Exército Brasileiro. <br/>
     &nbsp&nbsp&nbsp - No entanto, senti muita paixão pelo setor de tecnologia pela sua crescente evolução, então decidi fazer uma migração de carreira. <br/><br/>
-    🤝 Quero colaborar em muitos projetos, o máximo possível.
+    <img src="https://gifs.eco.br/wp-content/uploads/2022/07/gifs-de-aperto-de-mao-14.gif" align="center" height="40" width="65"> Quero colaborar em muitos projetos, o máximo possível.
+ 
   </p></br>
 </div>
 
