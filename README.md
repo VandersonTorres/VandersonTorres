@@ -1,6 +1,6 @@
 <h1 align="center"> Olá, Eu sou o Vanderson Torres <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> </h1>
 
-<div style="display: inline_block" align="center">
+<div style="display: inline_block" align="center" width="max-content">
   <a href="https://github.com/VandersonTorres">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VandersonTorres&show_icons=true&hide_border=true&hide=contribs&theme=merko">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VandersonTorres&hide_border=true&layout=compact&hide=html">
