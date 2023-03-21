@@ -2,8 +2,8 @@
 
 <div style="display: inline_block" align="center">
   <a href="https://github.com/VandersonTorres">
-    <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=VandersonTorres&show_icons=true&hide_border=true&hide=contribs&theme=merko">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VandersonTorres&hide_border=true&layout=compact&theme=dark">
+    <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=VandersonTorres&show_icons=true&hide_border=true&hide=contribs&theme=merko" alt="Unavailable information">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VandersonTorres&hide_border=true&layout=compact&theme=dark" alt="Unavailable information">
   </a>
   
 </div><br/>
