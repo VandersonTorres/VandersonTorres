@@ -3,7 +3,8 @@
 <div style="display: inline_block" align="center">
   <a href="https://github.com/VandersonTorres">
     <img height="200em" width="650em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VandersonTorres&theme=github_dark" alt="Unavailable information"><br />
-    <img width="250em" src="https://github-readme-stats.vercel.app/api/top-langs?username=VandersonTorres&show_icons=true&locale=en&theme=dark" alt="Unavailable information">
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=VandersonTorres&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Unavailable information" />
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VandersonTorres&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Unavailable information" />
   </a>
   
 </div><br/>
