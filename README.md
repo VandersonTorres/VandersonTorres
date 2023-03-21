@@ -60,7 +60,7 @@
 <div>
   <h3> Curriculum Vitae </h3>
   <p> <img src="https://www.countryflags.com/wp-content/uploads/brazil-flag-png-xl.png" align="center" height="30" width="35"> 
-    (Portuguese): <a href="https://drive.google.com/file/d/1K_qmzm4XZodgDX6NXh4WV80Udn6sohhL/view?usp=share_link" rel="nofollow"><img align="center" src="https://estuarine.jp/wp-content/uploads/2020/05/google-drive-icon480.png" alt="CV/ pt-BR" height="70" width="70" style="max-width: 100%;"></a>
+    (Portuguese): <a href="https://drive.google.com/file/d/17kLCU0QTOBlXQhPXNduPEGqV1jlKfvty/view?usp=share_link" rel="nofollow"><img align="center" src="https://estuarine.jp/wp-content/uploads/2020/05/google-drive-icon480.png" alt="CV/ pt-BR" height="70" width="70" style="max-width: 100%;"></a>
   </p>
   <h3> Curriculum Vitae </h3>
   <p> <img src="https://www.freepnglogos.com/uploads/american-flag-png/simple-american-flag-16.png" align="center" height="30" width="35">
