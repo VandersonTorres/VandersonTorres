@@ -10,15 +10,17 @@
 </div><br/>
 
 <div>
-   <p>
-    - ⚙️ Currently I am developing solutions for Data Scraping through several technologies and frameworks like Scrapy, Beautifulsoup, Selenium, Playwright, Botright, and others. Simultaneously I'm also engaged in personal projects that inolve Web Programming, Python Aplications And Automations <br/>
-    - 👨🏽‍🎓 Studying Bachelor's degree in Systems Analysis and Development, and graduated in Public Safety Technology. <br/>
-    - 👀 I want to improve my abilities and development capabilities as mush as possible.
+  <p>
+    ⚙️ Currently, I am developing Data Scraping solutions using various technologies and frameworks such as Scrapy, BeautifulSoup, Selenium, Playwright, BotRight, among others. At the same time, I am also working on personal projects involving Web Development, Python Applications, and Automation.<br/>
+    
+    👨🏽‍🎓 Pursuing a Bachelor's degree in Systems Analysis and Development, and already hold a degree in Public Safety Technology.<br/>
+    
+    👀 I am always looking to enhance my skills and expand my development capabilities as much as possible.
   </p>
 </div>
 
 <div style="display: inline_block"><br/>
-  <h3> My Abilities (Languages and Technologies): </h3>
+  <h3>My Skills (Languages and Technologies):</h3>
   <img align="center" alt="Vanderson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vanderson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vanderson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -31,20 +33,19 @@
 </div><br/>
 
 <div>
-  <h3> Profile: </h3>
+  <h3>Profile:</h3>
   <p>
-    &nbsp&nbsp&nbsp - I am a dedicated Professional and I never give up searching for answers and methods for new challenges;<br/>
-    &nbsp&nbsp&nbsp - Extremely organized and goal-oriented;</br>
-    &nbsp&nbsp&nbsp - During my professional life I learned that, before a hard problem, we must see a improvement opportunity.<br/>
+    - I am a dedicated professional who never gives up on finding solutions and approaches for new challenges.<br/>
+    - Extremely organized and goal-oriented.<br/>
+    - Throughout my career, I’ve learned that every tough problem is also an opportunity for improvement.
   </p>
   
-  <h3> About me: </h3>
+  <h3>About Me:</h3>
   <p>
-    &nbsp&nbsp&nbsp - I performed for 8 years in Defense and Public Safety area at the post of 1º Lieutenant of Brazilian Army. Now I'm a Python Developer at DeltaVictor Company.<br/>
-    &nbsp&nbsp&nbsp - I felt a lot of passion for the technology sector because its growing evolution, then I have decided to make a career migration from Defense to IT. <br/><br/>
-    <img src="https://gifs.eco.br/wp-content/uploads/2022/07/gifs-de-aperto-de-mao-14.gif" align="center" height="40" width="65"> I want to collaborate to a lot of projects.
- 
-  </p></br>
+    - I served for 8 years in the Defense and Public Safety sector as a First Lieutenant in the Brazilian Army. Currently, I work as a Python Developer at DeltaVictor Company.<br/>
+    - I’ve developed a strong passion for the technology industry due to its continuous evolution, which inspired me to make a career transition from Defense to IT.<br/><br/>
+    <img src="https://gifs.eco.br/wp-content/uploads/2022/07/gifs-de-aperto-de-mao-14.gif" align="center" height="40" width="65"> I’m eager to collaborate on many exciting projects!
+  </p>
 </div>
 
 <div>
