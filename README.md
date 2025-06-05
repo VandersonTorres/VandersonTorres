@@ -12,9 +12,7 @@
 <div>
   <p>
     ⚙️ Currently, I am developing Data Scraping solutions using various technologies and frameworks such as Scrapy, BeautifulSoup, Selenium, Playwright, BotRight, among others. At the same time, I am also working on personal projects involving Web Development, Python Applications, and Automation.<br/>
-    
     👨🏽‍🎓 Pursuing a Bachelor's degree in Systems Analysis and Development, and already hold a degree in Public Safety Technology.<br/>
-    
     👀 I am always looking to enhance my skills and expand my development capabilities as much as possible.
   </p>
 </div>
