@@ -11,9 +11,9 @@
 
 <div>
   <p>
-    ⚙️ Currently, I am developing Data Scraping solutions using various technologies and frameworks such as Scrapy, BeautifulSoup, Selenium, Playwright, BotRight, among others. At the same time, I am also working on personal projects involving Web Development, Python Applications, and Automation.<br/>
-    👨🏽‍🎓 Pursuing a Bachelor's degree in Systems Analysis and Development, and already hold a degree in Public Safety Technology.<br/>
-    👀 I am always looking to enhance my skills and expand my development capabilities as much as possible.
+    ⚙️ Currently developing data scraping and automation solutions using technologies such as Scrapy, Beautiful Soup, Selenium, and Playwright, while also working on personal projects involving web development, Python applications, and process automation.<br/>
+    👨🏽‍🎓 Carrying two Bachelor’s degree, in Systems Analysis and Development, and in Public Safety Technology.<br/>
+    👀 Continuously focused on improving technical skills and expanding my capabilities across software development and automation.
   </p>
 </div>
 
@@ -31,15 +31,15 @@
 <div>
   <h3>Profile:</h3>
   <p>
-    - I am a dedicated professional who never gives up on finding solutions and approaches for new challenges.<br/>
+    - A goal-driven professional with a strong problem-solving mindset, persistent in exploring effective solutions to complex technical challenges.<br/>
     - Extremely organized and goal-oriented.<br/>
     - Throughout my career, I’ve learned that every tough problem is also an opportunity for improvement.
   </p>
   
   <h3>About Me:</h3>
   <p>
-    - I served for 8 years in the Defense and Public Safety sector as a First Lieutenant in the Brazilian Army. Currently, I work as a Python Developer at DeltaVictor Company.<br/>
-    - I’ve developed a strong passion for the technology industry due to its continuous evolution, which inspired me to make a career transition from Defense to IT.<br/><br/>
+    - Served for 8 years in the Defense and Public Safety sector as a First Lieutenant in the Brazilian Army, and currently working as a Python Software Engineer at DeltaVictor Company.<br/>
+    - I got a strong interest in the technology industry due to its continuous evolution, which motivated a career transition from Defense to Software Engineering.<br/><br/>
     <img src="https://gifs.eco.br/wp-content/uploads/2022/07/gifs-de-aperto-de-mao-14.gif" align="center" height="40" width="65"> I’m eager to collaborate on many exciting projects!
   </p>
 </div>
@@ -62,7 +62,7 @@
   </p>
   <h3> Curriculum Vitae </h3>
   <p> <img src="https://www.freepnglogos.com/uploads/american-flag-png/simple-american-flag-16.png" align="center" height="30" width="35">
-    (English): <a href="https://drive.google.com/file/d/1j_M1jEodL_bfSgzNi5Y9rjGt4SzNQi5g/view?usp=sharing" rel="nofollow"><img align="center" src="https://estuarine.jp/wp-content/uploads/2020/05/google-drive-icon480.png" alt="CV/ en" height="70" width="70" style="max-width: 100%;"></a></br>
+    (English): <a href="https://drive.google.com/file/d/1eeDWbSFOrBD9UcXks--yzoHHGcHYAnm4/view?usp=sharing" rel="nofollow"><img align="center" src="https://estuarine.jp/wp-content/uploads/2020/05/google-drive-icon480.png" alt="CV/ en" height="70" width="70" style="max-width: 100%;"></a></br>
   </p>
 </div>
 
