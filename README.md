@@ -48,7 +48,7 @@
   <h3> 📫 How to reach me: </h3>
   <p align="left" dir="auto">
     <a a rel="noopener" data-link="mailto:vanderson.torres1@hotmail.com" href="mailto:vanderson.torres1@hotmail.com" target="_top"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Microsoft_Office_Outlook_Logo_512px.png" alt="1" height="50" width="50" style="max-width: 100%;"> </a> &nbsp &nbsp &nbsp
-    <a href="www.linkedin.com/in/vanderson-torres" rel="nofollow"><img align="center" src="https://bit.ly/3yepBf4" alt="1" height="40" width="40" style="max-width: 100%;"></a> &nbsp &nbsp &nbsp
+    <a href="https://www.linkedin.com/in/vanderson-torres" rel="nofollow"><img align="center" src="https://bit.ly/3yepBf4" alt="1" height="40" width="40" style="max-width: 100%;"></a> &nbsp &nbsp &nbsp
     <a href="https://www.instagram.com/vanderson._torres/" rel="nofollow"><img align="center" src="https://bit.ly/3IPIQ3B" alt="1" height="40" width="40" style="max-width: 100%;"></a> &nbsp &nbsp &nbsp
     <a href="https://api.whatsapp.com/send?phone=5531991359922" rel="nofollow"><img align="center" src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-whatsapp-icon-png-image_6315990.png" alt="Whatsapp" height="40" width="40" style="max-width: 100%;"></a><br/>
   </p>
